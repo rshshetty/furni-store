@@ -207,7 +207,7 @@ p {
 
 
 .nav-header img{
-    width: 84px;
+    width: 84px !important;
     margin-left: -15px;
     margin-top: 15px;
     position: relative;
