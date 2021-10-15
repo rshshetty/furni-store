@@ -1,16 +1,3 @@
-#### .env vars
-
-- REACT_APP_AUTH_DOMAIN=
-- REACT_APP_CLIENT_ID=
-- REACT_APP_STRIPE_PUBLIC_KEY=
-- REACT_APP_STRIPE_SECRET_KEY=
-
-#### Extra Setup
-
-```
-npm install dotenv@8.2.0 stripe@8.130.0 @stripe/react-stripe-js@1.1.2 @stripe/stripe-js@1.11.0 netlify@6.0.12
-```
-
-```
-npm install netlify-cli -D
-```
+It's an E-com web app for Furniture, Core features are product Listing, filtering based on Price, Color, Brand, Category. Free Shipping  Price & Name.
+Adding to Cart, Clearing the Filter
+Other Features are Authentication with Email, Password, Twitter, and Integration with Stripe API for Payment
